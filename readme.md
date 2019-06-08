@@ -1,32 +1,10 @@
-**HOT TO INSTALL APP**
---
-     
-* *Copy ``.env`` environment config file and set all required settings in it:*
+# QUIZ GAME
 
-    cp .env.dist .env
-     
-* *Start app and build required Docker containers:*
+## Check this project online: http://www.discoveringworld.net/flatstock
 
-        docker-compose up -d
-      
-* *Install all composer dependencies:*
+###### Detailed description of this project: [QUIZ GAME](http://185.177.59.147:8111/projects/spa-quiz-game/)
 
-        docker exec -it quizgame_php composer install
-            
-* *Run all required migrations:*
+###### Check out also [my other applications and works](http://185.177.59.147:8111)
 
-        docker exec -it quizgame_php php artisan migrate
-  
-* *Run all required migrations:*
-
-      docker exec -it quizgame_php  npm install
-      docker exec -it quizgame_php  npm run dev
-      
-* *Change permission for 'storage' folder:*
-    
-        docker exec -it quizgame_php  chmod +x ./services/docker/set_storage_read_write_permissions.sh
-        docker exec -it quizgame_php  ./services/docker/set_storage_read_write_permissions.sh
-
-App is available on ``8304`` port
---
-    http://127.0.0.1:8304
+### INSTALLATION INSTRUCTIONS
+[HOW TO INSTALL](https://github.com/Maksim1990/Laravel_VuewJS_SPA_Q-A_game/blob/master/public/docs/INSTALLATION.md)
