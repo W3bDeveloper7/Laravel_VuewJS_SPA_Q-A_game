@@ -1,8 +1,8 @@
-# QUIZ GAME
+# LARAVEL VUEJS SPA QUIZ GAME
 
-## Check this project online: http://www.discoveringworld.net/flatstock
+## Check this project online: http://www.discoveringworld.net/quizgame
 
-###### Detailed description of this project: [QUIZ GAME](http://185.177.59.147:8111/projects/spa-quiz-game/)
+###### Detailed description of this project: [SPA QUIZ GAME](http://185.177.59.147:8111/projects/spa-quiz-game/)
 
 ###### Check out also [my other applications and works](http://185.177.59.147:8111)
 
